@@ -1,0 +1,16 @@
+{
+  "E3A1B2C4": {
+    "name": "Hieu",
+    "role": "university_member",
+    "balance": 50000,
+    "entry_time": "08:00",
+    "exit_time": ""
+  },
+  "F1234567": {
+    "name":: "Hao",
+    "role": "university_member",
+    "balance": 15000,
+    "entry_time": "09:00",
+    "exit_time": ""
+  }
+}
